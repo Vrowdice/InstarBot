@@ -10,11 +10,8 @@ from selenium.common.exceptions import StaleElementReferenceException
 import time
 import random
 
-stoped_id = 'minmin310342@gmail.com'
-stoped_pw = 'zxcvasdf'
-
-insta_id = 'minmin310345@gmail.com'
-insta_pw = 'asdqwe'
+stoped_id = 'id'
+stoped_pw = 'password'
 
 chrome_options = Options()
 chrome_options.add_argument("--incognito")
